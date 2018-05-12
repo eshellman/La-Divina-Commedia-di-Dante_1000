@@ -13,6 +13,8 @@ covers:
 - cover_type: generated
   image_path: cover.png
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1000#La-Divina-Commedia-di-Dante
 gutenberg_bookshelf:
 - IT Poesia
 - Banned Books from Anne Haight's list
